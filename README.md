@@ -15,7 +15,7 @@ tradecraft to the problems that matter most at the frontier of AI.
 - 🏛️ Federal law enforcement — Cyber analysis & tactical investigations
 - 🎓 National Intelligence University — Data Science | Research: *"What if an AGI Could
   Perform Cybersecurity Tasks?"*
-- 📜 GIAC GSEC · GIAC GCFE · Splunk Core Certified
+- 📜 GIAC GSEC · GIAC GCFE
 
 ## Interests
 Abuse detection · Enforcement workflow design · Threat actor profiling · LLM security ·
